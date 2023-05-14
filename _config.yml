@@ -48,44 +48,101 @@ googleplus_username: muhi.dev
 # about_title: About Me
 # about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  I’m a programmer who loves to write a neat & efficient code. I was mostly working with C++ for past game development and C# .NET for mobile & web application development, also other languages such as Java, Python, ActionScript, etc. depends on the projects. I am interested to improve my experience and programming skill on C++ or Java, and especially C# .NET. But still possible to learn other programming languages.
+  I’m a programmer who loves to write a neat & efficient code. I was mostly working with C++ for past game development and C# .NET for mobile & web application development, also other languages such as Java, Python, ActionScript, etc. depends on the projects. I am interested to improve my experience and programming skill on <mark>C++</mark> or <mark>Java</mark>, and especially <mark>C#</mark> .NET. But still possible to learn other programming languages.
 
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: CalCula - Daily Calculator
+        title: CalCula - Daily Calculator (Sept 2021 - Present)
         link: https://play.google.com/store/apps/details?id=com.muhidev.calcula
-        link_text: Google Play Application Page
+        link_text: Download on Google Play
         additional_links:
-          - title:  Developer Page
-            icon: fab play
+          - title:  Google Play Developer Page
+            icon: fab fa-globe
             url: https://play.google.com/store/apps/dev?id=5945721745087054638
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
           I love to develop this app, it gives me a lot of knowledges to build android application from scratch.
         description: | # this will include new lines to allow paragraphs
-          I am a self-learner & continuously developing my knowledges in every spare time. CalCula was developed using C# Xamarin.Android with Material Design to build it's beautiful UI. The code build in MVVM desing pattern so it's maintainable, testable, and flexible. The latest version was released on May, 13th 2023.
+          I am a self-learner & continuously developing my knowledges in every spare time. CalCula was developed using C# <mark>Xamarin.Android</mark> with <mark>Material Design</mark> to build it's beautiful UI. The code build in <mark>MVVM</mark> desing pattern so it's maintainable, testable, and flexible.
+
       - layout: top-middle
-        title: Cellmatic (Automated Cell-Culture System)
+        title: Cellmatic (Automated Cell-Culture System) (Aug 2022 - Feb 2023)
         link: https://formulatrix.com/automated-cell-culture/
-        link_text: Cellmatic web page
-        # additional_links:
-        #   - title:  Developer Page
-        #     icon: fab play
-        #     url: https://play.google.com/store/apps/dev?id=5945721745087054638
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        link_text: Formulatrix Product - Cellmatic
         quote: >
           In this project, I got lot of knowledges about web API, unit testing, dependency injection, etc.
         description: | # this will include new lines to allow paragraphs
-          I was working in a team which creates automation system for cell culture as backend Software Engineer. I was worked in some scopes such as infrastructure & scheduler to build a software uwing C# ASP .NET.
-          As infrastructure team, I implement unit test using xUnit to catch bugs early before deploy the code with real hardware.
-          As scheduler team, I implement error handling so the system can take a recovery action if there is an unexpected behavior.
+          I was working in a team which creates automation system for cell culture as backend Software Engineer. I was worked in some scopes such as infrastructure & scheduler to build a software using C# <mark>ASP .NET</mark>.
+          As infrastructure team, I implement **unit test** using <mark>xUnit</mark> to catch bugs early before deploy the code with real hardware.
+          As scheduler team, I implement **error handling** so the system can take a recovery action if there is an unexpected behavior.
+
+      - layout: top-middle
+        title: Minion Rush (Amazon Kindle Devices Version) (Aug 2021 - Aug 2022)
+        link: https://play.google.com/store/apps/details?id=com.gameloft.android.ANMP.GloftDMHM&hl=en&gl=US
+        link_text: Minion Rush on Google Play
+        quote: >
+          I was working as single programmer in this project.
+        description: | # this will include new lines to allow paragraphs
+          I am responsible to make **the game running normally on Amazon devices** and help producer to deploy the game without any critical issue.
+
+      - layout: top-middle
+        title: Sniper Fury (Gameloft Shop Version) (Nov 2020 - Aug 2021)
+        link: https://www.youtube.com/watch?v=U8GvEnrTAM4
+        link_text: Sniper Fury HD
+        additional_links:
+          - title:  Wapshop - Sniper Fury
+            icon: fab fa-globe
+            url: https://wapshop.gameloft.com/telkomsel/ayce/product.php?phoneId=36112&product=4211&sv=127m9mdvraedqrv0zsavptixb&c=100&crt_param=texo&texo=true&from=ADID-435645
+        quote: >
+          This project gives me knowledges about online multiplayer & DLC sytem.
+        description: | # this will include new lines to allow paragraphs
+          * **Online multiplayer** code running in *Game Server*, to remove this feature I need to migrate some code which running in server side (using **Python**) to be running on client side (using **C++**).
+          * Modify the *building system* in Python language to reduce the game size based on *Game Designer* requirement, including to modify the current mechanism to build **DLC** assets.
+
+      - layout: top-middle
+        title: Real Football 2021 (Jan 2020 - Sept 2020)
+        link: https://wapshop.gameloft.com/telkomsel/ayce/product.php?phoneId=36112&product=4407&sv=127m9mdvraedqrv0zsavptixb&c=100&crt_param=texo&texo=true&from=ADID-435645
+        link_text: Real Football 2021 in Wapshop
+        quote: >
+          I got new experiences to use Flash IDE (an old tool using *ActionScript*).
+        description: | # this will include new lines to allow paragraphs
+          This game is adapt from the old version, so I **update the libraries used to the new version** with minimum risk to break the game.
+          * Updating the old libraries into new version leads to create so many issues. My task is to find the best version which not producing too many errors within a given time.
+          * The game UI are reworked, *Game Designer* need programmer to **integrate UI with the game code** in *ActionScript*.
+          * The game has no cloud storage implementation yet, here I help the team to **implement Cloud Save** using company's internal library.
+
+      - layout: top-middle
+        title: Casual 3D Football Game (Not Published) (Jan 2019 - Jan 2020)
+        link: 
+        link_text: 
+        quote: >
+          It's the most awesome project as C++ game programmer for me.
+        description: | # this will include new lines to allow paragraphs
+          This project is my favourite, because I am working on game **physics behavior**. We're changing the non-football game into a football game. Most of my tasks are **implement 3D collision & physics behavior** (gravity, force, etc.) of the game. Also got task related to ball's AI which relies a lot on physical and mathematical calculations.
+          Another tasks:
+          * In battle mode (human vs AI), there are two balls which can collide the goal net in different position at the same time and we're using animation to perform goal net's touched behavior. I'm successfully implement new behavior using **cloth-like body behavior**, to the goal net become more realistic when being hit by two balls.
+          * In other mode, the user need to hit the bulls eye as **breakable object** and I'm implement this **with physics behavior** so the object scatterd in random direction based on collision point.
+          * Also I'm implement the ball's trajectory which can be moving in **curved trajectory** using mathematical calculation.
+
+      - layout: top-middle
+        title: Real Football 2019 (Jan 2017 - Jan 2018)
+        link: https://wapshop.gameloft.com/telkomsel/ayce/product.php?phoneId=36112&product=3452&sv=127m9mdvraedqrv0zsavptixb&c=100&crt_param=texo&texo=true&from=ADID-435645
+        link_text: Real Football 2019 in Wapshop
+        quote: >
+          It's the first Java HD game that I am working.
+        description: | # this will include new lines to allow paragraphs
+          I am handle the **HVGA build** to make sure there is no critical bugs when being released.
+
+      - layout: top-middle
+        title: Paradise Cruise, Rival Wheels (2017 - Jan 2018)
+        link: https://www.youtube.com/watch?v=GqUdxc5EDhI
+        link_text: Rival Wheels HD Android
+        quote: >
+          The first project in Java device.
+        description: | # this will include new lines to allow paragraphs
+          I am working as Java programmer to fix the bugs on those games.
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
