@@ -84,8 +84,8 @@ content:
           In this project, I got lot of knowledges about web API, unit testing, dependency injection, etc.
         description: | # this will include new lines to allow paragraphs
           I was working in a team which creates automation system for cell culture as backend Software Engineer. I was worked in some scopes such as infrastructure & scheduler to build a software uwing C# ASP .NET.
-		  As infrastructure team, I implement unit test using xUnit to catch bugs early before deploy the code with real hardware.
-		  As scheduler team, I implement error handling so the system can take a recovery action if there is an unexpected behavior.
+          As infrastructure team, I implement unit test using xUnit to catch bugs early before deploy the code with real hardware.
+          As scheduler team, I implement error handling so the system can take a recovery action if there is an unexpected behavior.
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
