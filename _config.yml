@@ -65,7 +65,7 @@ content:
         quote: >
           I love to developing this app, as it provides me with extensive knowledge and hands-on experience in building android applications from scratch.
         description: | # this will include new lines to allow paragraphs
-          CalCula was created utilizing C# <mark>Xamarin.Android</mark> in conjunction with <mark>Material Design</mark> to achieve an aesthetically pleasing user interface. The application's code follows the <mark>MVVM</mark> design pattern, ensuring its maintainability, testability, and adaptability. Additionally, several other cutting-edge technologies have been incorporated into this project, including <mark>SQLite</mark>, <mark>Live Data</mark>, <mark>Nancy</mark>, <mark>Google Play Update</mark>, <mark>Polly</mark>, and <mark>Firebase</mark>.
+          CalCula was created utilizing <mark>C#</mark> <mark>Xamarin.Android</mark> in conjunction with <mark>Material Design</mark> to achieve an aesthetically pleasing user interface. The application's code follows the <mark>MVVM</mark> design pattern, ensuring its maintainability, testability, and adaptability. Additionally, several other cutting-edge technologies have been incorporated into this project, including <mark>SQLite</mark>, <mark>Live Data</mark>, <mark>Nancy</mark>, <mark>Google Play Update</mark>, <mark>Polly</mark>, and <mark>Firebase</mark>.
 
       - layout: top-middle
         title: Cellmatic (Automated Cell-Culture System) (Aug 2022 - Feb 2023)
@@ -74,7 +74,7 @@ content:
         quote: >
           Through this project, I have gained extensive knowledge in various areas such as web API development, unit testing, and dependency injection.
         description: | # this will include new lines to allow paragraphs
-          I was working in </mark>C#</mark> <mark>ASP .NET Core</mark> web API as backend software engineer to creates automation system for cell culture. My responsibilities encompassed two main areas: infrastructure & scheduler. On the infrastructure team, I collaborated with colleagues to **develop comprehensive unit tests** to ensure the system's reliability and quality. In my role on the scheduling team, I **implement error handling** feature.
+          I was working in <mark>C#</mark> <mark>ASP .NET Core</mark> web API as backend software engineer to creates automation system for cell culture. My responsibilities encompassed two main areas: infrastructure & scheduler. On the infrastructure team, I collaborated with colleagues to **develop comprehensive unit tests** to ensure the system's reliability and quality. In my role on the scheduling team, I **implement error handling** feature.
 
       - layout: top-middle
         title: Minion Rush (Amazon Kindle Devices Version) (Aug 2021 - Aug 2022)
