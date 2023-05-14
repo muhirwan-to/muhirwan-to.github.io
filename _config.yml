@@ -55,7 +55,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: CalCula: Daily Calculator
+        title: CalCula - Daily Calculator
         link: https://play.google.com/store/apps/details?id=com.muhidev.calcula
         link_text: Google Play Application Page
         additional_links:
