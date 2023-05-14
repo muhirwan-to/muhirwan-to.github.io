@@ -178,7 +178,7 @@ content:
         quote: >
           I love programming and interested to create android application.
         description: | # this will include new lines to allow paragraphs
-          I am self-learner & continuously developing my knowledges in every spare time. Currently, I am developing android application and publish it on **Google Play Store**. I have strong passion to develop more application in future.
+          I am self-learner & continuously developing my knowledges in every spare time. Currently, I am developing android application and publish it on [**Google Play Store**](https://play.google.com/store/apps/dev?id=5945721745087054638). I have strong passion to develop more application in future.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
