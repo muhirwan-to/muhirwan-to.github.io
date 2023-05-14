@@ -7,9 +7,9 @@ version: 2
 
 # Personal info
 name: Muhammad Irwanto
-title: Android Developer | C++/ C# Programmer
+title: C++ C# Programmer | Android Developer
 email: muhammad.irwanto95@gmail.com
-website: www.github.com/muhirwan-to/muhirwan-to.github.io
+website: 
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -19,21 +19,21 @@ twitter_username:
 github_username:  muhirwan-to
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
-# facebook_username: jekyll
+facebook_username: muhammadirwanto.me
 # flickr_username: jekyll
-instagram_username: muhirwan-to
-linkedin_username: 
+instagram_username: muhammadirwanto.me
+linkedin_username: muhammad-irwanto-87bbb512a
 # xing_username: jekyll
 # pinterest_username: jekyll
-youtube_username: 
-# googleplus_username: +jekyll
+# youtube_username: 
+googleplus_username: muhi.dev
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
-additional_links:
-- title: itsgoingto.be
-  icon: fas fa-globe
-  url: https://www.itsgoingto.be
+# additional_links:
+# - title: itsgoingto.be
+#   icon: fas fa-globe
+#   url: https://www.itsgoingto.be
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -46,7 +46,7 @@ additional_links:
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+# about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   I’m a programmer who loves to write a neat & efficient code. I was mostly working with C++ for past game development and C# .NET for mobile & web application development, also other languages such as Java, Python, ActionScript, etc. depends on the projects. I am interested to improve my experience and programming skill on C++ or Java, and especially C# .NET. But still possible to learn other programming languages.
 
@@ -55,21 +55,39 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
-        # link_text: Project Website
+        title: CalCula: Daily Calculator
+        link: https://play.google.com/store/apps/details?id=com.muhidev.calcula
+        link_text: Google Play Application Page
         additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
+          - title:  Developer Page
+            icon: fab play
+            url: https://play.google.com/store/apps/dev?id=5945721745087054638
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+          I love to develop this app, it gives me a lot of knowledges to build android application from scratch.
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
-
+          I am a self-learner & continuously developing my knowledges in every spare time. CalCula was developed using C# Xamarin.Android with Material Design to build it's beautiful UI. The code build in MVVM desing pattern so it's maintainable, testable, and flexible. The latest version was released on May, 13th 2023.
+		  
+      - layout: top-middle
+        title: Cellmatic (Automated Cell-Culture System)
+        link: https://formulatrix.com/automated-cell-culture/
+        link_text: Cellmatic web page
+        # additional_links:
+        #   - title:  Developer Page
+        #     icon: fab play
+        #     url: https://play.google.com/store/apps/dev?id=5945721745087054638
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          In this project, I got lot of knowledges about web API, unit testing, dependency injection, etc.
+        description: | # this will include new lines to allow paragraphs
+          I was working in a team which creates automation system for cell culture as backend Software Engineer. I was worked in some scopes such as infrastructure & scheduler to build a software uwing C# ASP .NET.
+		  As infrastructure team, I implement unit test using xUnit to catch bugs early before deploy the code with real hardware.
+		  As scheduler team, I implement error handling so the system can take a recovery action if there is an unexpected behavior.
+		  
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
