@@ -69,7 +69,6 @@ content:
           I love to develop this app, it gives me a lot of knowledges to build android application from scratch.
         description: | # this will include new lines to allow paragraphs
           I am a self-learner & continuously developing my knowledges in every spare time. CalCula was developed using C# Xamarin.Android with Material Design to build it's beautiful UI. The code build in MVVM desing pattern so it's maintainable, testable, and flexible. The latest version was released on May, 13th 2023.
-		  
       - layout: top-middle
         title: Cellmatic (Automated Cell-Culture System)
         link: https://formulatrix.com/automated-cell-culture/
