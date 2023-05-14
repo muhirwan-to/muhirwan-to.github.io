@@ -15,7 +15,7 @@ website:
 darkmode: false
 
 # Social links
-twitter_username: 
+# twitter_username: 
 github_username:  muhirwan-to
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
@@ -26,7 +26,7 @@ linkedin_username: muhammad-irwanto-87bbb512a
 # xing_username: jekyll
 # pinterest_username: jekyll
 # youtube_username: 
-googleplus_username: muhi.dev
+# googleplus_username:
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
@@ -45,8 +45,8 @@ googleplus_username: muhi.dev
 # google_analytics: "UA-00000000-0"
 
 # About Section
-# about_title: About Me
-# about_profile_image: images/profile.jpg
+about_title: About Me
+about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   I’m a programmer who loves to write a neat & efficient code. I was mostly working with C++ for past game development and C# .NET for mobile & web application development, also other languages such as Java, Python, ActionScript, etc. depends on the projects. I am interested to improve my experience and programming skill on <mark>C++</mark> or <mark>Java</mark>, and especially <mark>C#</mark> .NET. But still possible to learn other programming languages.
 
@@ -65,7 +65,7 @@ content:
         quote: >
           I love to develop this app, it gives me a lot of knowledges to build android application from scratch.
         description: | # this will include new lines to allow paragraphs
-          CalCula was developed using C# <mark>Xamarin.Android</mark> with <mark>Material Design</mark> to build it's beautiful UI. The code build in <mark>MVVM</mark> desing pattern so it's maintainable, testable, and flexible.
+          CalCula was developed using C# <mark>Xamarin.Android</mark> with <mark>Material Design</mark> to build it's beautiful UI. The code build in <mark>MVVM</mark> design pattern so it's maintainable, testable, and flexible. The other technologies implemented in this application are: <mark>SQLite</mark>, <mark>Live Data</mark>, <mark>Nancy</mark>, <mark>Google Play Update</mark>, <mark>Polly</mark>, <mark>Firebase</mark>.
 
       - layout: top-middle
         title: Cellmatic (Automated Cell-Culture System) (Aug 2022 - Feb 2023)
