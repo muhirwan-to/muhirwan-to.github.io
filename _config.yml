@@ -48,7 +48,7 @@ linkedin_username: muhammad-irwanto-87bbb512a
 about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  I’m a programmer who loves to write a neat & efficient code. I was mostly working with C++ for past game development and C# .NET for mobile & web application development, also other languages such as Java, Python, ActionScript, etc. depends on the projects. I am interested to improve my experience and programming skill on <mark>C++</mark> or <mark>Java</mark>, and especially <mark>C#</mark> .NET. But still possible to learn other programming languages.
+  I am a passionate programmer dedicated to crafting clean and optimized code. My experience primarily revolves around <mark>C++</mark> & <mark>Java</mark> in the realm of game development, and <mark>C#</mark> .NET for creating mobile and web applications. I am actively seeking opportunities to further enhance my expertise and programming skills, with a particular focus on advancing my proficiency in both <mark>C++</mark> and <mark>C#</mark>.
 
 content:
   - title: Projects # Title for the section
@@ -63,29 +63,27 @@ content:
             icon: fab fa-globe
             url: https://play.google.com/store/apps/dev?id=5945721745087054638
         quote: >
-          I love to develop this app, it gives me a lot of knowledges to build android application from scratch.
+          I love to developing this app, as it provides me with extensive knowledge and hands-on experience in building android applications from scratch.
         description: | # this will include new lines to allow paragraphs
-          CalCula was developed using C# <mark>Xamarin.Android</mark> with <mark>Material Design</mark> to build it's beautiful UI. The code build in <mark>MVVM</mark> design pattern so it's maintainable, testable, and flexible. The other technologies implemented in this application are: <mark>SQLite</mark>, <mark>Live Data</mark>, <mark>Nancy</mark>, <mark>Google Play Update</mark>, <mark>Polly</mark>, <mark>Firebase</mark>.
+          CalCula was created utilizing C# <mark>Xamarin.Android</mark> in conjunction with <mark>Material Design</mark> to achieve an aesthetically pleasing user interface. The application's code follows the <mark>MVVM</mark> design pattern, ensuring its maintainability, testability, and adaptability. Additionally, several other cutting-edge technologies have been incorporated into this project, including <mark>SQLite</mark>, <mark>Live Data</mark>, <mark>Nancy</mark>, <mark>Google Play Update</mark>, <mark>Polly</mark>, and <mark>Firebase</mark>.
 
       - layout: top-middle
         title: Cellmatic (Automated Cell-Culture System) (Aug 2022 - Feb 2023)
         link: https://formulatrix.com/automated-cell-culture/
         link_text: Formulatrix Product - Cellmatic
         quote: >
-          In this project, I got lot of knowledges about web API, unit testing, dependency injection, etc.
+          Through this project, I have gained extensive knowledge in various areas such as web API development, unit testing, and dependency injection.
         description: | # this will include new lines to allow paragraphs
-          I was working in a team which creates automation system for cell culture as backend Software Engineer. I was worked in some scopes such as infrastructure & scheduler to build a software using C# <mark>ASP .NET</mark>.
-          As infrastructure team, I implement **unit test** using <mark>xUnit</mark> to catch bugs early before deploy the code with real hardware.
-          As scheduler team, I implement **error handling** so the system can take a recovery action if there is an unexpected behavior.
+          I was working in </mark>C#</mark> <mark>ASP .NET Core</mark> web API as backend software engineer to creates automation system for cell culture. My responsibilities encompassed two main areas: infrastructure & scheduler. On the infrastructure team, I collaborated with colleagues to **develop comprehensive unit tests** to ensure the system's reliability and quality. In my role on the scheduling team, I **implement error handling** feature.
 
       - layout: top-middle
         title: Minion Rush (Amazon Kindle Devices Version) (Aug 2021 - Aug 2022)
         link: https://play.google.com/store/apps/details?id=com.gameloft.android.ANMP.GloftDMHM&hl=en&gl=US
         link_text: Minion Rush on Google Play
         quote: >
-          I was working as single programmer in this project.
+          I served as the sole programmer in this project, taking on the responsibility of handling all programmer's tasks independently.
         description: | # this will include new lines to allow paragraphs
-          I am responsible to make **the game running normally on Amazon devices** and help producer to deploy the game without any critical issue.
+          I am accountable for **ensuring the smooth functionality of the game on Amazon devices**, diligently assisting the producer in deploying the game seamlessly, and eliminating any critical issues that may arise.
 
       - layout: top-middle
         title: Sniper Fury (Gameloft Shop Version) (Nov 2020 - Aug 2021)
@@ -96,53 +94,52 @@ content:
             icon: fab fa-globe
             url: https://wapshop.gameloft.com/telkomsel/ayce/product.php?phoneId=36112&product=4211&sv=127m9mdvraedqrv0zsavptixb&c=100&crt_param=texo&texo=true&from=ADID-435645
         quote: >
-          This project gives me knowledges about online multiplayer & DLC sytem.
+          This project has afforded me valuable insights into the workings of online multiplayer and DLC systems.
         description: | # this will include new lines to allow paragraphs
-          * **Online multiplayer** code running in *Game Server*, to remove this feature I need to migrate some code which running in server side (using **Python**) to be running on client side (using <mark>C++</mark>).
-          * Modify the *building system* in Python language to reduce the game size based on *Game Designer* requirement, including to modify the current mechanism to build **DLC** assets.
+          * The implementation of online multiplayer functionality is currently handled by code running on the *Game Server*. To remove this feature, I will need to **migrate certain server-side code** (developed in Python) **to the client side** (using <mark>C++</mark>).
+          * **Enhance the Python-based building system** to optimize the game size in alignment with the specifications provided by the *Game Designer*. This involves revising the existing asset building mechanism to accommodate **DLC** assets.
 
       - layout: top-middle
         title: Real Football 2021 (Jan 2020 - Sept 2020)
         link: https://wapshop.gameloft.com/telkomsel/ayce/product.php?phoneId=36112&product=4407&sv=127m9mdvraedqrv0zsavptixb&c=100&crt_param=texo&texo=true&from=ADID-435645
         link_text: Real Football 2021 in Wapshop
         quote: >
-          I got new experiences to use Flash IDE (an old tool using *ActionScript*).
+          I acquired fresh experiences while working with the Flash IDE, an older tool that utilizes ActionScript.
         description: | # this will include new lines to allow paragraphs
-          This game is adapt from the old version, so I **update the libraries used to the new version** with minimum risk to break the game.
-          * Updating the old libraries into new version leads to create so many issues. My task is to find the best version which not producing too many errors within a given time.
-          * The game UI are reworked, *Game Designer* need programmer to **integrate UI with the game code** in *ActionScript*.
-          * The game has no cloud storage implementation yet, here I help the team to **implement Cloud Save** using company's internal library.
+          This game is an adaptation of the previous version, which required me to **upgrade the libraries to their latest version** while minimizing the risk of disrupting the game's functionality.
+          * Upgrading the libraries to newer versions often introduces numerous issues. My responsibility was to **identify the most suitable version** that resulted in a minimal number of errors within the given timeframe.
+          * The game's user interface underwent a significant overhaul, and the *Game Designer* required assistance from a programmer to seamlessly **integrate the UI with the game code using ActionScript**.
+          * The game lacks cloud storage functionality. In this regard, I contributed to the team by **implementing Cloud Save** utilizing the company's internal library.
 
       - layout: top-middle
         title: Casual 3D Football Game (Not Published) (Jan 2019 - Jan 2020)
         link: 
         link_text: 
         quote: >
-          It's the most awesome project as C++ game programmer for me.
+          This project has been one of the most amazing experiences for me as a C++ game programmer.
         description: | # this will include new lines to allow paragraphs
-          This project is my favourite, because I am working on game **physics behavior**. We're changing the non-football game into a football game. Most of my tasks are **implement 3D collision & physics behavior** (gravity, force, etc.) of the game. Also got task related to ball's AI which relies a lot on physical and mathematical calculations.
-          Another tasks:
-          * In battle mode (human vs AI), there are two balls which can collide the goal net in different position at the same time and we're using animation to perform goal net's touched behavior. I'm successfully implement new behavior using **cloth-like body behavior**, to the goal net become more realistic when being hit by two balls.
-          * In other mode, the user need to hit the bulls eye as **breakable object** and I'm implement this **with physics behavior** so the object scatterd in random direction based on collision point.
-          * Also I'm implement the ball's trajectory which can be moving in **curved trajectory** using mathematical calculation.
+          This project is my favorite because it involves working on the physics behavior of the game. Our team is transforming a non-football game into a football game, and I am mainly responsible for implementing **3D collision and physics behavior** such as gravity and force. Additionally, I am also tasked with implementing the ball's AI, which relies heavily on physical and mathematical calculations. In addition to these tasks, I have also worked on the following features:
+          * In battle mode, we have two balls that can collide with the goal net at different positions at the same time. To make the goal net's touched behavior more realistic, I have successfully **implemented a cloth-like body behavior** for the goal net without using animation.
+          * In another mode, the user needs to hit a **breakable object**, and I have **implemented physics behavior** for this, causing the object to scatter in random directions based on the collision point.
+          * I have also implemented the **ball's trajectory to move in a curved path** using mathematical calculations.
 
       - layout: top-middle
         title: Real Football 2019 (Jan 2017 - Jan 2018)
         link: https://wapshop.gameloft.com/telkomsel/ayce/product.php?phoneId=36112&product=3452&sv=127m9mdvraedqrv0zsavptixb&c=100&crt_param=texo&texo=true&from=ADID-435645
         link_text: Real Football 2019 in Wapshop
         quote: >
-          It's the first Java HD game that I am working.
+          This is my first experience working on a high-definition game in Java.
         description: | # this will include new lines to allow paragraphs
-          I am handle the **HVGA build** to make sure there is no critical bugs when being released.
+          As a programmer, I take responsibility for **handling the HVGA build to ensure a seamless release** with minimal critical bugs. I meticulously analyze and address any potential issues to guarantee a smooth user experience.
 
       - layout: top-middle
         title: Paradise Cruise, Rival Wheels (2017 - Jan 2018)
         link: https://www.youtube.com/watch?v=GqUdxc5EDhI
         link_text: Rival Wheels HD Android
         quote: >
-          The first project in Java device.
+          My initial project involved working with a Java-based device.
         description: | # this will include new lines to allow paragraphs
-          I am working as Java programmer to fix the bugs on those games.
+          During my involvement in the Paradise Cruise & Rival Wheels projects, I served as a Java programmer, dedicated to **resolving bugs** in these games.
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -154,9 +151,9 @@ content:
         sub_title: Senior Game Programmer
         caption: September 2017 - August 2022
         quote: >
-          We're working in fun environment as game programmer.
+          As game programmers, we are privileged to work in a vibrant and dynamic environment that fosters creativity and excitement.
         description: | # this will include new lines to allow paragraphs
-          I was working on creation & porting projects. I am responsible to implement features based on the game design document and maintain existing code from bugs. The game code mostly using <mark>C++ (4y)</mark> & <mark>Java (1y)</mark>, but also using python, batch, & lua for the *data building system* and occasionally use *ActionScript* for UI. The most interested task is when handling game **physics & collision**.
+          I have been engaged in both creation and porting projects, undertaking the responsibility of **implementing features as outlined in the game design document**, as well as  **maintaining existing code and resolving bugs**. My programming expertise primarily revolves around <mark>C++</mark> (4 years) and <mark>Java</mark> (1 year) for game development. I find particular satisfaction in tasks related to **game physics and collision**, as they present exciting challenges that I enthusiastically embrace.
 
       - layout: left
         title: PT Promaufacture Indonesia (Formulatrix)
@@ -165,9 +162,9 @@ content:
         sub_title: Software Engineer (Backend)
         caption: August 2022 - February 2023
         quote: >
-          I learnt a lot of new knowledge of software develpoment.
+          Engaging in software development has been a transformative journey, enlightening me with a wealth of new knowledge and insights.
         description: | # this will include new lines to allow paragraphs
-          I was working in a team which creates automation system for cell-culture as backend software engineer. I was worked in some scopes such as infrastructure & scheduler team using <mark>C# ASP .NET</mark> web API.
+          I was working in <mark>C#</mark> <mark>ASP .NET Core</mark> web API as backend software engineer to creates automation system for cell culture. My responsibilities encompassed two main areas: infrastructure & scheduler. On the infrastructure team, I collaborated with colleagues to **develop comprehensive unit tests** to ensure the system's reliability and quality. In my role on the scheduling team, I **implement error handling** feature.
 
       - layout: left
         title: Personal Project & Freelancing
@@ -176,9 +173,9 @@ content:
         sub_title: Android Developer
         caption: September 2021 - Present
         quote: >
-          I love programming and interested to create android application.
+          I am deeply passionate about programming and possess a strong interest in crafting innovative Android applications.
         description: | # this will include new lines to allow paragraphs
-          I am self-learner & continuously developing my knowledges in every spare time. Currently, I am developing android application and publish it on [**Google Play Store**](https://play.google.com/store/apps/dev?id=5945721745087054638). I have strong passion to develop more application in future.
+          I am a dedicated self-learner, constantly striving to expand my knowledge during every available opportunity. At present, I am actively engaged in developing an android application using <mark>C#</mark> <mark>Xamarin</mark>, along with <mark>Material3 design</mark>, and following the <mark>MVVM</mark> design pattern. I take pride in having successfully published two apps on the [**Google Play Store**](https://play.google.com/store/apps/dev?id=5945721745087054638), and **I look forward to continuing my efforts in creating high-quality applications** that exceed user expectations.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -188,9 +185,9 @@ content:
         caption: 2013 - 2017
         sub_title: SSi Bachelor of Science
         quote: >
-          I was graduated in Physics of Science with GPA 3.73/4.00.
+          I successfully completed my Bachelor's degree in Physics, achieving an impressive GPA of 3.73 out of 4.00.
         description: | # this will include new lines to allow paragraphs
-          During my time as a student, I joined the student organization to develop my softskill and also do lot of scientific competitions. My biggest achievement is become **2nd winner (national)** of scientific writting competition.
+          During my time as a student, I joined the student organization to develop my softskill and also do lot of scientific competitions. My biggest achievement is become **2nd place winner at the national level** of scientific writting competition.
 
   - title: A Little More About Me
     layout: text
