@@ -67,15 +67,6 @@ content:
         description: | # this will include new lines to allow paragraphs
           CalCula was created utilizing <mark>C#</mark> <mark>Xamarin.Android</mark> in conjunction with <mark>Material Design</mark> to achieve an aesthetically pleasing user interface. The application's code follows the <mark>MVVM</mark> design pattern, ensuring its maintainability, testability, and adaptability. Additionally, several other cutting-edge technologies have been incorporated into this project, including <mark>SQLite</mark>, <mark>Live Data</mark>, <mark>Nancy</mark>, <mark>Google Play Update</mark>, <mark>Polly</mark>, and <mark>Firebase</mark>.
 
-      - layout: carousel
-        title: Carousel title
-        description: Carousel desc
-        images:
-          - images/calcula-input.jpg
-          - images/calcula-input-extended.jpg
-          - images/calcula-history.jpg
-          - images/calcula-currency-converter.jpg
-
       - layout: top-middle
         title: Cellmatic (Automated Cell-Culture System) (Aug 2022 - Feb 2023)
         link: https://formulatrix.com/automated-cell-culture/
