@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>{{ page.title }}</title>
+  <!-- Add your CSS styles or link to an external stylesheet here -->
+  <style>
+    /* Example CSS styles for the carousel */
+    .carousel-container {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+
+    .carousel-image {
+      display: none;
+    }
+
+    .carousel-image.active {
+      display: block;
+    }
+  </style>
+</head>
+<body>
+  <h1>{{ page.title }}</h1>
+  <p>{{ page.description }}</p>
+
+  <div class="carousel-container">
+    {% for image in page.images %}
+      <img class="carousel-image" src="{{ image }}" alt="Image" width="200" height="100">
+    {% endfor %}
+  </div>
+
+  <script>
+    // JavaScript code for the carousel
+    var carouselImages = document.querySelectorAll('.carousel-image');
+    var currentImageIndex = 0;
+
+    function showNextImage() {
+      carouselImages[currentImageIndex].classList.remove('active');
+      currentImageIndex = (currentImageIndex + 1) % carouselImages.length;
+      carouselImages[currentImageIndex].classList.add('active');
+    }
+
+    setInterval(showNextImage, 3000); // Change image every 3 seconds
+  </script>
+</body>
+</html>
