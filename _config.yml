@@ -65,6 +65,7 @@ content:
         quote: >
           I love to developing this app, as it provides me with extensive knowledge and hands-on experience in building android applications from scratch.
         description: | # this will include new lines to allow paragraphs
+          ![](images/calcula-input.jpg) ![](images/calcula-input-extended.jpg) ![](images/calcula-history.jpg) ![](images/calcula-currency-converter.jpg)
           CalCula was created utilizing <mark>C#</mark> <mark>Xamarin.Android</mark> in conjunction with <mark>Material Design</mark> to achieve an aesthetically pleasing user interface. The application's code follows the <mark>MVVM</mark> design pattern, ensuring its maintainability, testability, and adaptability. Additionally, several other cutting-edge technologies have been incorporated into this project, including <mark>SQLite</mark>, <mark>Live Data</mark>, <mark>Nancy</mark>, <mark>Google Play Update</mark>, <mark>Polly</mark>, and <mark>Firebase</mark>.
 
       - layout: top-middle
