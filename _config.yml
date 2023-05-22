@@ -145,15 +145,15 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: PT Gameloft Indonesia
-        link: https://www.gameloft.com/gameloft-studios/yogyakarta
-        link_text: Gameloft Yogyakarta
-        sub_title: Senior Game Programmer
-        caption: September 2017 - August 2022
+        title: Personal Project & Freelancing
+        link: 
+        link_text: 
+        sub_title: Android Developer
+        caption: September 2021 - Present
         quote: >
-          As game programmers, we are privileged to work in a vibrant and dynamic environment that fosters creativity and excitement.
+          I am deeply passionate about programming and possess a strong interest in crafting innovative Android applications.
         description: | # this will include new lines to allow paragraphs
-          I have been engaged in both creation and porting projects, undertaking the responsibility of **implementing features as outlined in the game design document**, as well as  **maintaining existing code and resolving bugs**. My programming expertise primarily revolves around <mark>C++</mark> (4 years) and <mark>Java</mark> (1 year) for game development. I find particular satisfaction in tasks related to **game physics and collision**, as they present exciting challenges that I enthusiastically embrace.
+          I am a dedicated self-learner, constantly striving to expand my knowledge during every available opportunity. At present, I am actively engaged in developing an android application using <mark>C#</mark> <mark>Xamarin</mark>, along with <mark>Material3 design</mark>, and following the <mark>MVVM</mark> design pattern. I take pride in having successfully published two apps on the [**Google Play Store**](https://play.google.com/store/apps/dev?id=5945721745087054638), and **I look forward to continuing my efforts in creating high-quality applications** that exceed user expectations.
 
       - layout: left
         title: PT Promaufacture Indonesia (Formulatrix)
@@ -167,15 +167,15 @@ content:
           I was working in <mark>C#</mark> <mark>ASP .NET Core</mark> web API as backend software engineer to creates automation system for cell culture. My responsibilities encompassed two main areas: infrastructure & scheduler. On the infrastructure team, I collaborated with colleagues to **develop comprehensive unit tests** to ensure the system's reliability and quality. In my role on the scheduling team, I **implement error handling** feature.
 
       - layout: left
-        title: Personal Project & Freelancing
-        link: 
-        link_text: 
-        sub_title: Android Developer
-        caption: September 2021 - Present
+        title: PT Gameloft Indonesia
+        link: https://www.gameloft.com/gameloft-studios/yogyakarta
+        link_text: Gameloft Yogyakarta
+        sub_title: Senior Game Programmer
+        caption: September 2017 - August 2022
         quote: >
-          I am deeply passionate about programming and possess a strong interest in crafting innovative Android applications.
+          As game programmers, we are privileged to work in a vibrant and dynamic environment that fosters creativity and excitement.
         description: | # this will include new lines to allow paragraphs
-          I am a dedicated self-learner, constantly striving to expand my knowledge during every available opportunity. At present, I am actively engaged in developing an android application using <mark>C#</mark> <mark>Xamarin</mark>, along with <mark>Material3 design</mark>, and following the <mark>MVVM</mark> design pattern. I take pride in having successfully published two apps on the [**Google Play Store**](https://play.google.com/store/apps/dev?id=5945721745087054638), and **I look forward to continuing my efforts in creating high-quality applications** that exceed user expectations.
+          I have been engaged in both creation and porting projects, undertaking the responsibility of **implementing features as outlined in the game design document**, as well as  **maintaining existing code and resolving bugs**. My programming expertise primarily revolves around <mark>C++</mark> (4 years) and <mark>Java</mark> (1 year) for game development. I find particular satisfaction in tasks related to **game physics and collision**, as they present exciting challenges that I enthusiastically embrace.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
