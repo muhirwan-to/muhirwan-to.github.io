@@ -1,5 +1,5 @@
 # Site
-repository: muhirwan-to/muhirwan-to.github.io
+repository: muhirwanto-dev/muhirwanto-dev.github.io
 favicon: images/favicon.ico
 
 # Content configuration version
@@ -8,7 +8,7 @@ version: 2
 # Personal info
 name: Muhammad Irwanto
 title: C++ C# Programmer | Android Developer
-email: muhammad.irwanto95@gmail.com
+email: muhammadirwanto.dev@gmail.com
 website: 
 
 # Dark Mode (true/false/never)
@@ -16,7 +16,7 @@ darkmode: false
 
 # Social links
 # twitter_username: 
-github_username:  muhirwan-to
+github_username:  muhirwanto-dev
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 facebook_username: muhammadirwanto.me
@@ -46,7 +46,7 @@ linkedin_username: muhammad-irwanto-87bbb512a
 
 # About Section
 about_title: About Me
-about_profile_image: images/profile.jpg
+about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
   I am a passionate programmer dedicated to crafting clean and optimized code. My experience primarily revolves around <mark>C++</mark> & <mark>Java</mark> in the realm of game development, and <mark>C#</mark> .NET for creating mobile and web applications. I am actively seeking opportunities to further enhance my expertise and programming skills, with a particular focus on advancing my proficiency in both <mark>C++</mark> and <mark>C#</mark>.
 
