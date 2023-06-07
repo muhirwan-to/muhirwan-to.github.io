@@ -48,7 +48,7 @@ linkedin_username: muhammad-irwanto-87bbb512a
 about_title: About Me
 about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
-  I am a passionate programmer dedicated to crafting clean and optimized code. My experience primarily revolves around <mark>C++</mark> & <mark>Java</mark> in the realm of game development, and <mark>C#</mark> .NET for creating mobile and web applications. I am actively seeking opportunities to further enhance my expertise and programming skills, with a particular focus on advancing my proficiency in both <mark>C++</mark> and <mark>C#</mark>.
+  I am a passionate programmer dedicated to crafting clean and optimized code. My experience primarily revolves around <mark>C++</mark> & <mark>Java</mark> in the realm of game development, and <mark>C#</mark> .NET for creating cross-platform mobile and web applications. I am actively seeking opportunities to further enhance my expertise and programming skills, with a particular focus on advancing my proficiency in both <mark>C++</mark> and <mark>C#</mark>.
 
 content:
   - title: Projects # Title for the section
@@ -145,7 +145,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Personal Project & Freelancing
+        title: Freelance
         link: 
         link_text: 
         sub_title: Android Developer
@@ -153,7 +153,7 @@ content:
         quote: >
           I am deeply passionate about programming and possess a strong interest in crafting innovative Android applications.
         description: | # this will include new lines to allow paragraphs
-          I am a dedicated self-learner, constantly striving to expand my knowledge during every available opportunity. At present, I am actively engaged in developing an android application using <mark>C#</mark> <mark>Xamarin</mark>, along with <mark>Material3 design</mark>, and following the <mark>MVVM</mark> design pattern. I take pride in having successfully published two apps on the [**Google Play Store**](https://play.google.com/store/apps/dev?id=5945721745087054638), and **I look forward to continuing my efforts in creating high-quality applications** that exceed user expectations.
+          I am a dedicated self-learner, constantly striving to expand my knowledge during every available opportunity. At present, I am actively engaged in developing an android application using <mark>C#</mark> <mark>Xamarin</mark> & <mark>MAUI</mark>, along with <mark>Material3 design</mark>, and following the <mark>MVVM</mark> design pattern. I take pride in having successfully published two apps on the [**Google Play Store**](https://play.google.com/store/apps/dev?id=5945721745087054638), and **I look forward to continuing my efforts in creating high-quality applications** that exceed user expectations.
 
       - layout: left
         title: PT Promaufacture Indonesia (Formulatrix)
