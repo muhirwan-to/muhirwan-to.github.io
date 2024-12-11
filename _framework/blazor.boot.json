@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "Autumn.Wasm",
   "resources": {
-    "hash": "sha256-UTX1D6wzmOG3SZ5OecTiBBzMzs3b1QOg74+/sJU7WJQ=",
+    "hash": "sha256-1iaxa1FZpXZIZ7BcPS1X2HZUorT++bQ6pRPfjG0qWLE=",
     "jsModuleNative": {
       "dotnet.native.8.0.11.ri5u9mnt8g.js": "sha256-ERqvs7Aj650n1Ydca90IMfnkPzusC7/hWWMjmGRL3ME="
     },
@@ -17,8 +17,8 @@
       "icudt_no_CJK.dat": "sha256-L7sV7NEYP37/Qr2FPCePo5cJqRgTXRwGHuwF5Q+0Nfs="
     },
     "assembly": {
-      "Autumn.Contract.wasm": "sha256-Yb3ICFgN1zQOJLbJH/coVBPto5jv6sbYqf49apbEeJM=",
-      "Autumn.Wasm.wasm": "sha256-J/UilMjJ4tuakC98YdX9/ZuAo59sYCKSXhsTgP6VOiQ=",
+      "Autumn.Contract.wasm": "sha256-Jl4HbKb0g+BYgpR+qh6HMbuNEDODjhOHmMhYrx7B0Jo=",
+      "Autumn.Wasm.wasm": "sha256-C89kXoOJz6YPLpG3HjZA3FHakFgyRIfEpEm19umvIsw=",
       "Blazing.Mvvm.wasm": "sha256-USMwnsYraM3ZH60/n3oD9YDJb1kuG2smY36G9qXkNgY=",
       "CommunityToolkit.Mvvm.wasm": "sha256-dewXeb1zJbiTTlOwzePhWIYJTWDvgrS1JamX+++f7RM=",
       "Microsoft.AspNetCore.Components.wasm": "sha256-YoJ8qc5dZENtB35kSFCvBMAunLj9aFurg1pgKutaFRI=",
