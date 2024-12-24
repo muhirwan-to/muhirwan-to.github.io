@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "Autumn.Wasm",
   "resources": {
-    "hash": "sha256-LjV8Eow2U54+kj7zqk0ZpAuYL938pvODuHJ7+F60Ycg=",
+    "hash": "sha256-CNwKu+QhpIAWyBiGpR0qGAicpCdCsIdXXQZ9NvumzQA=",
     "jsModuleNative": {
       "dotnet.native.8.0.11.ri5u9mnt8g.js": "sha256-ERqvs7Aj650n1Ydca90IMfnkPzusC7/hWWMjmGRL3ME="
     },
@@ -17,8 +17,8 @@
       "icudt_no_CJK.dat": "sha256-L7sV7NEYP37/Qr2FPCePo5cJqRgTXRwGHuwF5Q+0Nfs="
     },
     "assembly": {
-      "Autumn.Contract.wasm": "sha256-BDtyaHsY1msXITzXZ8V8Y6q5yVNNP6LtMq+hnDDNjDw=",
-      "Autumn.Wasm.wasm": "sha256-Vl+Yizw5y4O54FuerRc8sL/2q9fwG0YOpiWz6R+awng=",
+      "Autumn.Contract.wasm": "sha256-MU4gxQxikdck5CZMqYz5bu62WIrZR1D2IgEX4yz+jag=",
+      "Autumn.Wasm.wasm": "sha256-jBIrNCLyGThpwB+0ji7ADwzjMzOQSsoTkso59SA41JQ=",
       "Blazing.Mvvm.wasm": "sha256-USMwnsYraM3ZH60/n3oD9YDJb1kuG2smY36G9qXkNgY=",
       "BlazorPro.BlazorSize.wasm": "sha256-5hc1RpOB0CA7QwuOTNOYX3seo6QPgQ5OAh2+07pMIkI=",
       "CommunityToolkit.Mvvm.wasm": "sha256-dewXeb1zJbiTTlOwzePhWIYJTWDvgrS1JamX+++f7RM=",
